@@ -5,7 +5,7 @@ import re
 
 
 class Fundrazr(scrapy.Spider):
-    name = "my_scraper"
+    name = "FundRazr"
 
     # First Start Url
     start_urls = ["https://fundrazr.com/find?category=Health"]
