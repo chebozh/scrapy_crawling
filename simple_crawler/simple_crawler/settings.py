@@ -69,7 +69,7 @@ ROBOTSTXT_OBEY = True
 #}
 
 ITEM_PIPELINES = {'scrapy.pipelines.images.ImagesPipeline': 1}
-IMAGES_STORE = '/Users/chebozhinov/PycharmProjects/scrapy_crawling/simple_crawler/images'
+IMAGES_STORE = 'images'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
