@@ -5,7 +5,8 @@
   1. Scraping https://fundrazr.com/ and saving the scraped data as a CSV file. Tutorial source: https://youtu.be/O_j3OTXw2_E
   2. Scraping https://www.sportsdirect.com/ and saving the scraped product data as a JSON file and downloading 
      specifc product image files. Tutorial source: https://youtu.be/4I6Xg6Y17qs
-  3. Scraping http://quotes.toscrape.com/ to get quotes, author, tags and URL and save them in a JSON file.
+  3. Scraping http://quotes.toscrape.com/ to get quotes, author, tags and URL and save them in a JSON file. Tutorial source - 
+     Scrapinghub: https://youtu.be/vkA1cWN4DEc
 
 # Install
 ```
